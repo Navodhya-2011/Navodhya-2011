@@ -46,3 +46,12 @@
 </br>
 <h2>📊 My Github Stats</h2>
 <img src = "https://github-readme-stats.vercel.app/api?username=Navodhya-2011&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
+<br/>
+<br/>
+
+<a href="https://github.com/Navodhya-2011/github-readme-activity-graph"><img alt="Navodhya Yasisuru's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Navodhya-2011&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
+<br/>
+
