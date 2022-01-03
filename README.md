@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact:  I'm playing video games.
 
-<img src = "https://github-readme-stats.vercel.app/api?username=Navodhya-2011&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+
 
 ## 🚀 Languages and Tools:
 
@@ -37,3 +37,5 @@
     <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
     <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
 </p>
+
+<img src = "https://github-readme-stats.vercel.app/api?username=Navodhya-2011&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
