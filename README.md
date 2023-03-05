@@ -6,11 +6,11 @@
 
 - 🎓 I’m currently undergraduate in BSc (Hons) in Information Technology Specialization in Software Engineering Degree.
 
-- 🌱 I’m currently learning React JS, Flutter and Data Structures & Algorithams.
+- 🌱 I’m currently learning React JS, Flutter and .
 
 - 👯 I’m looking to collaborate on OpenSource Projects.
 
-- 📫 How to reach me: navodhya2011@gmail.com
+- 📫 How to reach me: navodhya2011@gmail.com https://www.linkedin.com/in/navodhya-yasisuru-b38417215/
 
 - ⚡ Fun fact:  I'm playing video games.
 
