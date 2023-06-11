@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on OpenSource Projects.
 
-- 📫 How to reach me: navodhya2011@gmail.com https://www.linkedin.com/in/navodhya-yasisuru-b38417215/
+- 📫 How to reach me: navodhya2011@gmail.com , https://www.linkedin.com/in/navodhya-yasisuru-b38417215/
 
 - ⚡ Fun fact:  I'm playing video games.
 
