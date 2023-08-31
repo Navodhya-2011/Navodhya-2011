@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: navodhya2011@gmail.com , https://www.linkedin.com/in/navodhya-yasisuru-b38417215/
 
-- ⚡ Fun fact:  I'm playing video games.
+- ⚡ Fun fact:  I'm playing COC.
 
 
 
