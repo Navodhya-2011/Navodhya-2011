@@ -6,7 +6,7 @@
 
 - 🎓 I’m currently undergraduate in BSc (Hons) in Information Technology Specialization in Software Engineering Degree.
 
-- 🌱 I’m currently learning React JS and Flutter.
+- 🌱 I’m currently learning Go.
 
 - 👯 I’m looking to collaborate on OpenSource Projects.
 
