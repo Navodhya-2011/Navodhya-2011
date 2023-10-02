@@ -45,7 +45,7 @@
 </p>
 </br>
 <h2>📊 My Github Stats</h2>
-[![An image of @navodhya2011's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/navodhya2011)](https://holopin.io/@navodhya2011)
+
 <img src = "[![Navodhya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Navodhya-2011&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)"> 
 <a href="#"><img width="25%" height="25%" src="https://media.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif" height="175px"/></a>
 
