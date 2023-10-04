@@ -46,7 +46,7 @@
 </br>
 <h2>📊 My Github Stats</h2>
 
-<img src = "[![Navodhya's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Navodhya-2011&custom_title=This%20is%20a%20title&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)"> 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Navodhya-2011)](https://git.io/streak-stats)
 <a href="#"><img width="25%" height="25%" src="https://media.giphy.com/media/ndM7oIOjaDQOhMKtF3/giphy.gif" height="175px"/></a>
 
 <br/>
