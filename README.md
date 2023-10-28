@@ -44,7 +44,9 @@
     </a>
 </p>
 </br>
+## Awards
 
+[![@navodhya2011's Holopin board](https://holopin.me/navodhya2011)](https://holopin.io/@navodhya2011)
 <h2>📊 My Github Stats</h2>
 
 
@@ -76,8 +78,6 @@
 </a>
 <a href="https://github.com/Navodhya-2011?tab=followers"><img src="https://img.shields.io/github/followers/Navodhya-2011?label=Followers&style=social" alt="GitHub Badge"></a>
 <br/>
-## Awards
 
-[![@navodhya2011's Holopin board](https://holopin.me/navodhya2011)](https://holopin.io/@navodhya2011)
 
 
