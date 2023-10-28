@@ -80,5 +80,7 @@
 <a href="https://github.com/Navodhya-2011?tab=followers"><img src="https://img.shields.io/github/followers/Navodhya-2011?label=Followers&style=social" alt="GitHub Badge"></a>
 <br/>
 
+## Snake eating my contributions graph
 
+![snake gif](https://github.com/Navodhya-2011/Navodhya-2011/blob/output/github-contribution-grid-snake.gif)
 
