@@ -75,5 +75,9 @@
     <img src="https://komarev.com/ghpvc/?username=Navodhya-2011">
 </a>
 <a href="https://github.com/Navodhya-2011?tab=followers"><img src="https://img.shields.io/github/followers/Navodhya-2011?label=Followers&style=social" alt="GitHub Badge"></a>
-[View my Holopin badges](https://holopin.io/@navodhya2011)
+<br/>
+## Awards
+
+[![@madhushaprasad's Holopin board](https://holopin.me/madhushaprasad)](https://holopin.io/@madhushaprasad)
+
 
