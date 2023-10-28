@@ -44,7 +44,7 @@
     </a>
 </p>
 </br>
-<a href= "https://holopin.me/navodhya2011)](https://holopin.io/@navodhya2011"></a>
+[![An image of @navodhya2011's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/navodhya2011)]
 <h2>📊 My Github Stats</h2>
 
 
