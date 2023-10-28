@@ -44,7 +44,7 @@
     </a>
 </p>
 </br>
-[![An image of @navodhya2011's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/navodhya2011)](https://holopin.io/@navodhya2011)
+
 <h2>📊 My Github Stats</h2>
 
 
@@ -75,4 +75,4 @@
     <img src="https://komarev.com/ghpvc/?username=Navodhya-2011">
 </a>
 <a href="https://github.com/Navodhya-2011?tab=followers"><img src="https://img.shields.io/github/followers/Navodhya-2011?label=Followers&style=social" alt="GitHub Badge"></a>
-[![An image of @navodhya2011's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/navodhya2011)](https://holopin.io/@navodhya2011)
+[![An image of @navodhya2011's Holopin badges, which is a link to view their full Holopin profile](https://www.holopin.io/api/user/board?user=navodhya2011)](https://holopin.io/@navodhya2011)
