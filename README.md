@@ -44,7 +44,8 @@
     </a>
 </p>
 </br>
-## Awards
+
+## Awards:
 
 [![@navodhya2011's Holopin board](https://holopin.me/navodhya2011)](https://holopin.io/@navodhya2011)
 <h2>📊 My Github Stats</h2>
