@@ -78,6 +78,6 @@
 <br/>
 ## Awards
 
-[![@madhushaprasad's Holopin board](https://holopin.me/madhushaprasad)](https://holopin.io/@madhushaprasad)
+[![@navodhya2011's Holopin board](https://holopin.me/navodhya2011)](https://holopin.io/@navodhya2011)
 
 
