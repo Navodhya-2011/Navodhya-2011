@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Navodhya</h1>
 
-<h3 align="center">I'm a passionate Full Stack Developer from Sri Lanka.</h3>
+<h3 align="center">I'm a Trainee DevOps Engineer R & D at DFCC Bank PLC from Sri Lanka.</h3>
 
 - 🎓 I’m currently undergraduate in BSc (Hons) in Information Technology Specialization in Software Engineering Degree.
 
