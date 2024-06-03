@@ -6,7 +6,7 @@
 
 - 🎓 I’m currently undergraduate in BSc (Hons) in Information Technology Specialization in Software Engineering Degree.
 
-- 🌱 I’m currently learning Go.
+- 🌱 I’m currently learning Oracle Cloud.
 
 - 👯 I’m looking to collaborate on OpenSource Projects.
 
