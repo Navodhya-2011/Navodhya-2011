@@ -12,7 +12,7 @@
 
 - 📫 How to reach me: navodhya2011@gmail.com
 
-- ⚡ Fun fact:  I'm playing COD.
+- ⚡ Fun fact:  I'm playing COC.
 
 
 
