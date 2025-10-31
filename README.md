@@ -4,7 +4,7 @@
 
 <h3 align="center">I'm a Software Engineer R & D at DFCC Bank PLC from Sri Lanka.</h3>
 
-- 🎓 I’m currently undergraduate in BSc (Hons) in Information Technology Specialization in Software Engineering Degree.
+- 🎓 I’m currently undergraduate in Msc in Management & Information Technology Degree.
 
 - 🌱 I’m currently learning OCI Gen AI.
 
