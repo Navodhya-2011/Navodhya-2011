@@ -53,7 +53,10 @@ Building scalable systems • Exploring GenAI • Open Source Contributor
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navodhya-2011&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navodhya-2011&layout=compact&hide_border=true&theme=dark&cache_seconds=21600"
+    width="45%"
+  />
 </p>
 
 > **Note:** Top languages reflect public repositories only.
