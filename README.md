@@ -43,7 +43,7 @@ Building scalable systems • Exploring GenAI • Open Source Contributor
 
 ---
 
-[![Navodhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navodhya-2011)](https://github.com/anuraghazra/github-readme-stats)
+![Navodhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navodhya-2011&show_icons=true&theme=transparent)
 
 ## 📊 GitHub Analytics Dashboard
 
@@ -104,7 +104,7 @@ Building scalable systems • Exploring GenAI • Open Source Contributor
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Navodhya-2011/Navodhya-2011/output/github-contribution-grid-snake-dark.svg" />
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?username=Navodhya-2011" />
 </p>
 
 <!-- Footer -->
