@@ -1,83 +1,111 @@
-<!-- Banner -->
+<!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:001942&height=200&section=header&text=Navodhya%20Yasisuru&fontSize=42&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:001942&height=220&section=header&text=Navodhya%20Yasisuru&fontSize=44&fontColor=ffffff&animation=fadeIn" />
 </p>
 
 <h3 align="center">
-Software Engineer (R&D) @ DFCC Bank PLC 🇱🇰  
+Software Engineer – R&D | DFCC Bank PLC 🇱🇰
 </h3>
 
 <p align="center">
-Building scalable systems • Exploring GenAI • Open Source Contributor
+Enterprise Systems • GenAI & LLMs • Secure & Scalable Architecture
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨‍💻 Professional Profile
 
 - 🎓 **MSc in Management & Information Technology (Undergraduate)**
-- 🧠 Currently learning **OCI Generative AI & LLM ecosystems**
-- 🏦 Software Engineer **R&D @ DFCC Bank PLC**
-- 🤝 Open to collaborating on **Open Source & AI projects**
-- 📧 Reach me at **navodhya2011@gmail.com**
-- 🎮 Fun fact: **Clash of Clans player**
+- 🏦 **Software Engineer (R&D) – DFCC Bank PLC**
+- 🤖 Focus areas: **Enterprise Systems, AI Enablement, Automation**
+- 🌱 Currently learning **OCI Generative AI, LLMOps**
+- 🤝 Open to **Open-Source & Research-Driven Collaboration**
+- 📧 **navodhya2011@gmail.com**
 
 ---
 
-## 🛠️ Tech Stack
+## 🧠 AI / GenAI Focus Area
+
+- 🔹 **OCI Generative AI**
+- 🔹 **Large Language Models (LLMs)**
+- 🔹 **Ollama (Local Model Serving)**
+- 🔹 **Embeddings & Vector Search**
+- 🔹 **Enterprise AI Governance & Security**
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,linux,docker" />
+</p>
+
+---
+
+## 🛠️ Technology Stack
 
 ### 💻 Languages & Frameworks
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,javascript,react,spring,nodejs,express,html,css" />
 </p>
 
-### 🗄️ Databases & Cloud
+### 🗄️ Databases & Platforms
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
 </p>
 
-### ⚙️ Tools & DevOps
+### ⚙️ DevOps & Tooling
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,jenkins,postman,bootstrap" />
 </p>
 
 ---
 
-![Navodhya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Navodhya-2011&show_icons=true&theme=transparent)
-
 ## 📊 GitHub Analytics Dashboard
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Navodhya-2011&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Navodhya-2011&theme=react&hide_border=true&background=0D1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Navodhya-2011&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark&cache_seconds=21600" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=Navodhya-2011&theme=dark&hide_border=true" />
 </p>
 
 <p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navodhya-2011&layout=compact&hide_border=true&theme=dark&cache_seconds=21600"
-    width="45%"
-  />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Navodhya-2011&layout=compact&hide_border=true&theme=dark&cache_seconds=21600" />
 </p>
 
-> **Note:** Top languages reflect public repositories only.
+> **Note:** Language stats reflect public repositories only.
 
 ---
 
-## 📈 Contribution Activity
+## 📈 Contribution Intelligence
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navodhya-2011&bg_color=0D1117&color=ffffff&line=00e5ff&point=ffffff&area=true&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Navodhya-2011&theme=github-dark&hide_border=true" />
 </p>
 
 ---
 
-## 🏆 Achievements & Badges
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Navodhya-2011&theme=darkhub&no-frame=true&margin-w=15" />
+</p>
+
+---
+
+## 📌 Pinned Projects (Showcase)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navodhya-2011&repo=Customer-360&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navodhya-2011&repo=AI-Research&theme=dark" />
+</p>
+
+> 🔔 Replace repo names with your actual pinned repositories if needed.
+
+---
+
+## 🏅 Certifications & Achievements
 
 [![Holopin Board](https://holopin.me/navodhya2011)](https://holopin.io/@navodhya2011)
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Professional Network
 
 <p align="left">
   <a href="https://www.linkedin.com/in/navodhya-yasisuru-b38417215">
@@ -93,7 +121,7 @@ Building scalable systems • Exploring GenAI • Open Source Contributor
 
 ---
 
-## 👀 Profile Views & Followers
+## 👀 Profile Reach
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Navodhya-2011&style=flat-square&color=blue" />
@@ -104,13 +132,15 @@ Building scalable systems • Exploring GenAI • Open Source Contributor
 
 ---
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Snake (Animated)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg?username=Navodhya-2011" />
+  <img src="https://raw.githubusercontent.com/Navodhya-2011/Navodhya-2011/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
-<!-- Footer -->
+---
+
+<!-- ===================== FOOTER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:001942,100:0D1117&height=120&section=footer" />
 </p>
