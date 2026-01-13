@@ -88,14 +88,14 @@ Enterprise Systems • GenAI & LLMs • Secure & Scalable Architecture
 
 ---
 
-## 📌 Pinned Projects (Showcase)
 
-<p align="center">
+
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navodhya-2011&repo=Customer-360&theme=dark" />
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Navodhya-2011&repo=AI-Research&theme=dark" />
-</p>
+</p> -->
 
-> 🔔 Replace repo names with your actual pinned repositories if needed.
+
 
 ---
 
